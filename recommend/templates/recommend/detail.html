@@ -28,8 +28,8 @@
         </div>
         <!-- Right Movie Info -->
         <div class="col-sm-offset-1 col-sm-4 col-md-4">
-            <h1 style="color:#fff">{{movies.title}}</h1>
-            <h3><small>Genre: {{movies.genre}}</small></h3>
+            <h1 style="color:#4CAF50">{{movies.title}}</h1>
+            <h3 style="color:#4CAF50"><small style="color:#4CAF50">Genre: {{movies.genre}}</small></h3>
 
             <div class="col-sm-offset-0 col-sm-8">
                 <form class="form-horizontal" role="search" method="post" action="{% url 'detail' movies.get_id %}" onsubmit="return validateForm()"  name="ratingForm">
