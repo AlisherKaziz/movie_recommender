@@ -146,14 +146,8 @@ def recommend(request):
 
     movies_id = list(similar_movies.sum().sort_values(ascending=False).index)
     movies_id_recommend = [each for each in movies_id if each not in movie_id_watched]
-    preserved = Case(*[When(pk=pk, then=pos) for pos, pk in enumerate(movies_id_recommend)])
 
     movie_list = list(Movie.objects.filter(_id__in=movies_id_recommend)[:10])
-    # movie_list_object = collection.find({"_id": {"$in": movies_id_recommend}})
-    # movie_list = []
-    # for movie in movie_list_object:
-    #     movie['id'] = movie['_id']
-    #     movie_list.append(movie)
 
     context = {'movie_list': movie_list}
     return render(request, 'recommend/recommend.html', context)
