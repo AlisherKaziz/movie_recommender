@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1daf"
+  },
+  "id": 1,
+  "app_label": "admin",
+  "model": "logentry"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1db4"
+  },
+  "id": 2,
+  "app_label": "auth",
+  "model": "permission"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1db5"
+  },
+  "id": 3,
+  "app_label": "auth",
+  "model": "group"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1db6"
+  },
+  "id": 4,
+  "app_label": "auth",
+  "model": "user"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dc3"
+  },
+  "id": 5,
+  "app_label": "contenttypes",
+  "model": "contenttype"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dc8"
+  },
+  "id": 6,
+  "app_label": "sessions",
+  "model": "session"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dcd"
+  },
+  "id": 7,
+  "app_label": "recommend",
+  "model": "movie"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dce"
+  },
+  "id": 8,
+  "app_label": "recommend",
+  "model": "myrating"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dcf"
+  },
+  "id": 9,
+  "app_label": "recommend",
+  "model": "mylist"
+}]

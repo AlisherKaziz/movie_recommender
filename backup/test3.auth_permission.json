@@ -1,0 +1,324 @@
+[{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1db0"
+  },
+  "id": 1,
+  "name": "Can add log entry",
+  "content_type_id": 1,
+  "codename": "add_logentry"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1db1"
+  },
+  "id": 2,
+  "name": "Can change log entry",
+  "content_type_id": 1,
+  "codename": "change_logentry"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1db2"
+  },
+  "id": 3,
+  "name": "Can delete log entry",
+  "content_type_id": 1,
+  "codename": "delete_logentry"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1db3"
+  },
+  "id": 4,
+  "name": "Can view log entry",
+  "content_type_id": 1,
+  "codename": "view_logentry"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1db7"
+  },
+  "id": 5,
+  "name": "Can add permission",
+  "content_type_id": 2,
+  "codename": "add_permission"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1db8"
+  },
+  "id": 6,
+  "name": "Can change permission",
+  "content_type_id": 2,
+  "codename": "change_permission"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1db9"
+  },
+  "id": 7,
+  "name": "Can delete permission",
+  "content_type_id": 2,
+  "codename": "delete_permission"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dba"
+  },
+  "id": 8,
+  "name": "Can view permission",
+  "content_type_id": 2,
+  "codename": "view_permission"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dbb"
+  },
+  "id": 9,
+  "name": "Can add group",
+  "content_type_id": 3,
+  "codename": "add_group"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dbc"
+  },
+  "id": 10,
+  "name": "Can change group",
+  "content_type_id": 3,
+  "codename": "change_group"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dbd"
+  },
+  "id": 11,
+  "name": "Can delete group",
+  "content_type_id": 3,
+  "codename": "delete_group"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dbe"
+  },
+  "id": 12,
+  "name": "Can view group",
+  "content_type_id": 3,
+  "codename": "view_group"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dbf"
+  },
+  "id": 13,
+  "name": "Can add user",
+  "content_type_id": 4,
+  "codename": "add_user"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dc0"
+  },
+  "id": 14,
+  "name": "Can change user",
+  "content_type_id": 4,
+  "codename": "change_user"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dc1"
+  },
+  "id": 15,
+  "name": "Can delete user",
+  "content_type_id": 4,
+  "codename": "delete_user"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dc2"
+  },
+  "id": 16,
+  "name": "Can view user",
+  "content_type_id": 4,
+  "codename": "view_user"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dc4"
+  },
+  "id": 17,
+  "name": "Can add content type",
+  "content_type_id": 5,
+  "codename": "add_contenttype"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dc5"
+  },
+  "id": 18,
+  "name": "Can change content type",
+  "content_type_id": 5,
+  "codename": "change_contenttype"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dc6"
+  },
+  "id": 19,
+  "name": "Can delete content type",
+  "content_type_id": 5,
+  "codename": "delete_contenttype"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dc7"
+  },
+  "id": 20,
+  "name": "Can view content type",
+  "content_type_id": 5,
+  "codename": "view_contenttype"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dc9"
+  },
+  "id": 21,
+  "name": "Can add session",
+  "content_type_id": 6,
+  "codename": "add_session"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dca"
+  },
+  "id": 22,
+  "name": "Can change session",
+  "content_type_id": 6,
+  "codename": "change_session"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dcb"
+  },
+  "id": 23,
+  "name": "Can delete session",
+  "content_type_id": 6,
+  "codename": "delete_session"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dcc"
+  },
+  "id": 24,
+  "name": "Can view session",
+  "content_type_id": 6,
+  "codename": "view_session"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dd0"
+  },
+  "id": 25,
+  "name": "Can add movie",
+  "content_type_id": 7,
+  "codename": "add_movie"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dd1"
+  },
+  "id": 26,
+  "name": "Can change movie",
+  "content_type_id": 7,
+  "codename": "change_movie"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dd2"
+  },
+  "id": 27,
+  "name": "Can delete movie",
+  "content_type_id": 7,
+  "codename": "delete_movie"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dd3"
+  },
+  "id": 28,
+  "name": "Can view movie",
+  "content_type_id": 7,
+  "codename": "view_movie"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dd4"
+  },
+  "id": 29,
+  "name": "Can add myrating",
+  "content_type_id": 8,
+  "codename": "add_myrating"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dd5"
+  },
+  "id": 30,
+  "name": "Can change myrating",
+  "content_type_id": 8,
+  "codename": "change_myrating"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dd6"
+  },
+  "id": 31,
+  "name": "Can delete myrating",
+  "content_type_id": 8,
+  "codename": "delete_myrating"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dd7"
+  },
+  "id": 32,
+  "name": "Can view myrating",
+  "content_type_id": 8,
+  "codename": "view_myrating"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dd8"
+  },
+  "id": 33,
+  "name": "Can add my list",
+  "content_type_id": 9,
+  "codename": "add_mylist"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dd9"
+  },
+  "id": 34,
+  "name": "Can change my list",
+  "content_type_id": 9,
+  "codename": "change_mylist"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dda"
+  },
+  "id": 35,
+  "name": "Can delete my list",
+  "content_type_id": 9,
+  "codename": "delete_mylist"
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1ddb"
+  },
+  "id": 36,
+  "name": "Can view my list",
+  "content_type_id": 9,
+  "codename": "view_mylist"
+}]

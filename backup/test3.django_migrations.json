@@ -1,0 +1,198 @@
+[{
+  "_id": {
+    "$oid": "654e91b3bc2cc6c6c49b1d9e"
+  },
+  "id": 1,
+  "app": "contenttypes",
+  "name": "0001_initial",
+  "applied": {
+    "$date": "2023-11-10T20:25:23.622Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b3bc2cc6c6c49b1d9f"
+  },
+  "id": 2,
+  "app": "auth",
+  "name": "0001_initial",
+  "applied": {
+    "$date": "2023-11-10T20:25:23.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b3bc2cc6c6c49b1da0"
+  },
+  "id": 3,
+  "app": "admin",
+  "name": "0001_initial",
+  "applied": {
+    "$date": "2023-11-10T20:25:23.886Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b3bc2cc6c6c49b1da1"
+  },
+  "id": 4,
+  "app": "admin",
+  "name": "0002_logentry_remove_auto_add",
+  "applied": {
+    "$date": "2023-11-10T20:25:23.911Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b3bc2cc6c6c49b1da2"
+  },
+  "id": 5,
+  "app": "admin",
+  "name": "0003_logentry_add_action_flag_choices",
+  "applied": {
+    "$date": "2023-11-10T20:25:23.919Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b3bc2cc6c6c49b1da3"
+  },
+  "id": 6,
+  "app": "contenttypes",
+  "name": "0002_remove_content_type_name",
+  "applied": {
+    "$date": "2023-11-10T20:25:23.938Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b3bc2cc6c6c49b1da4"
+  },
+  "id": 7,
+  "app": "auth",
+  "name": "0002_alter_permission_name_max_length",
+  "applied": {
+    "$date": "2023-11-10T20:25:23.944Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b3bc2cc6c6c49b1da5"
+  },
+  "id": 8,
+  "app": "auth",
+  "name": "0003_alter_user_email_max_length",
+  "applied": {
+    "$date": "2023-11-10T20:25:23.953Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b3bc2cc6c6c49b1da6"
+  },
+  "id": 9,
+  "app": "auth",
+  "name": "0004_alter_user_username_opts",
+  "applied": {
+    "$date": "2023-11-10T20:25:23.961Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b3bc2cc6c6c49b1da7"
+  },
+  "id": 10,
+  "app": "auth",
+  "name": "0005_alter_user_last_login_null",
+  "applied": {
+    "$date": "2023-11-10T20:25:23.972Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b3bc2cc6c6c49b1da8"
+  },
+  "id": 11,
+  "app": "auth",
+  "name": "0006_require_contenttypes_0002",
+  "applied": {
+    "$date": "2023-11-10T20:25:23.975Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b3bc2cc6c6c49b1da9"
+  },
+  "id": 12,
+  "app": "auth",
+  "name": "0007_alter_validators_add_error_messages",
+  "applied": {
+    "$date": "2023-11-10T20:25:23.983Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b3bc2cc6c6c49b1daa"
+  },
+  "id": 13,
+  "app": "auth",
+  "name": "0008_alter_user_username_max_length",
+  "applied": {
+    "$date": "2023-11-10T20:25:23.992Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dab"
+  },
+  "id": 14,
+  "app": "auth",
+  "name": "0009_alter_user_last_name_max_length",
+  "applied": {
+    "$date": "2023-11-10T20:25:24.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dac"
+  },
+  "id": 15,
+  "app": "auth",
+  "name": "0010_alter_group_name_max_length",
+  "applied": {
+    "$date": "2023-11-10T20:25:24.009Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dad"
+  },
+  "id": 16,
+  "app": "auth",
+  "name": "0011_update_proxy_permissions",
+  "applied": {
+    "$date": "2023-11-10T20:25:24.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b4bc2cc6c6c49b1dae"
+  },
+  "id": 17,
+  "app": "sessions",
+  "name": "0001_initial",
+  "applied": {
+    "$date": "2023-11-10T20:25:24.045Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "654e92612fa7e9fe283da537"
+  },
+  "id": 18,
+  "app": "recommend",
+  "name": "0001_initial",
+  "applied": {
+    "$date": "2023-11-10T20:28:17.304Z"
+  }
+}]

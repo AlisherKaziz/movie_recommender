@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "654e91e97db72d2e7f7750ab"
+  },
+  "title": "Up",
+  "genre": "Drama",
+  "movie_logo": "up.jpg"
+},
+{
+  "_id": {
+    "$oid": "654f1282e467030cd2b4125c"
+  },
+  "title": "The Shawshank Redemption",
+  "genre": "Drama",
+  "movie_logo": "the_shawshank_redemption.jpg"
+},
+{
+  "_id": {
+    "$oid": "654f1292e467030cd2b4125e"
+  },
+  "title": "Forrest Gump",
+  "genre": "Drama",
+  "movie_logo": "forrest_gump.jpg"
+},
+{
+  "_id": {
+    "$oid": "654f12a7e467030cd2b41260"
+  },
+  "title": "Fight Club",
+  "genre": "Drama",
+  "movie_logo": "fight_club.jpg"
+},
+{
+  "_id": {
+    "$oid": "654f12b4e467030cd2b41262"
+  },
+  "title": "Life Is Beautiful",
+  "genre": "Drama",
+  "movie_logo": "life_is_beautiful.jpg"
+},
+{
+  "_id": {
+    "$oid": "654f12bee467030cd2b41264"
+  },
+  "title": "Whiplash",
+  "genre": "Drama",
+  "movie_logo": "whiplash.jpg"
+},
+{
+  "_id": {
+    "$oid": "654f12cae467030cd2b41266"
+  },
+  "title": "The Good, the Bad and the Ugly",
+  "genre": "Adventure",
+  "movie_logo": "the_good_the_bad_and_the_ugly.jpg"
+},
+{
+  "_id": {
+    "$oid": "654f12d6e467030cd2b41268"
+  },
+  "title": "Toy Story",
+  "genre": "Cartoon",
+  "movie_logo": "toy_story.jpg"
+},
+{
+  "_id": {
+    "$oid": "654f12e0e467030cd2b4126a"
+  },
+  "title": "Coco",
+  "genre": "Cartoon",
+  "movie_logo": "coco.jpg"
+},
+{
+  "_id": {
+    "$oid": "654f12eae467030cd2b4126c"
+  },
+  "title": "Up",
+  "genre": "Cartoon",
+  "movie_logo": "up_LwRK3dm.jpg"
+},
+{
+  "_id": {
+    "$oid": "654f12f5e467030cd2b4126e"
+  },
+  "title": "Finding Nemo",
+  "genre": "Cartoon",
+  "movie_logo": "finding_nemo.jpg"
+},
+{
+  "_id": {
+    "$oid": "654f12ffe467030cd2b41270"
+  },
+  "title": "My Neighbor Totoro",
+  "genre": "Cartoon",
+  "movie_logo": "my_neighbor_totoro.jpg"
+},
+{
+  "_id": {
+    "$oid": "654f130de467030cd2b41272"
+  },
+  "title": "Goodfellas",
+  "genre": "Crime",
+  "movie_logo": "goodfellas.jpg"
+},
+{
+  "_id": {
+    "$oid": "654f1317e467030cd2b41274"
+  },
+  "title": "The Godfather Part II",
+  "genre": "Crime",
+  "movie_logo": "the_godfather_part_II.jpg"
+},
+{
+  "_id": {
+    "$oid": "654f1322e467030cd2b41276"
+  },
+  "title": "The Godfather",
+  "genre": "Crime",
+  "movie_logo": "the_godfather.jpg"
+},
+{
+  "_id": {
+    "$oid": "654f132ce467030cd2b41278"
+  },
+  "title": "Pulp Fiction",
+  "genre": "Crime",
+  "movie_logo": "pulp_fiction.jpg"
+},
+{
+  "_id": {
+    "$oid": "654f1339e467030cd2b4127a"
+  },
+  "title": "The Big Lebowski",
+  "genre": "Comedy",
+  "movie_logo": "the_big_lebowski.jpg"
+},
+{
+  "_id": {
+    "$oid": "654f1344e467030cd2b4127c"
+  },
+  "title": "Modern Times",
+  "genre": "Comedy",
+  "movie_logo": "modern_times.jpg"
+}]

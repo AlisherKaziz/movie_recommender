@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "654e91b32c48c97cf52cdce3"
+  },
+  "name": "django_migrations",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 18
+  },
+  "fields": {
+    "app": {
+      "type_code": "string"
+    },
+    "applied": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "int"
+    },
+    "name": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b32c48c97cf52cdce8"
+  },
+  "name": "django_content_type",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 9
+  },
+  "fields": {
+    "app_label": {
+      "type_code": "string"
+    },
+    "id": {
+      "type_code": "int"
+    },
+    "model": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b32c48c97cf52cdcf2"
+  },
+  "name": "auth_permission",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 36
+  },
+  "fields": {
+    "codename": {
+      "type_code": "string"
+    },
+    "content_type_id": {
+      "type_code": "int"
+    },
+    "id": {
+      "type_code": "int"
+    },
+    "name": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b32c48c97cf52cdcf8"
+  },
+  "name": "auth_group",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "id": {
+      "type_code": "int"
+    },
+    "name": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b32c48c97cf52cdcfd"
+  },
+  "name": "auth_group_permissions",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "group_id": {
+      "type_code": "int"
+    },
+    "id": {
+      "type_code": "int"
+    },
+    "permission_id": {
+      "type_code": "int"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b32c48c97cf52cdd03"
+  },
+  "name": "auth_user",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 4
+  },
+  "fields": {
+    "date_joined": {
+      "type_code": "date"
+    },
+    "email": {
+      "type_code": "string"
+    },
+    "first_name": {
+      "type_code": "string"
+    },
+    "id": {
+      "type_code": "int"
+    },
+    "is_active": {
+      "type_code": "bool"
+    },
+    "is_staff": {
+      "type_code": "bool"
+    },
+    "is_superuser": {
+      "type_code": "bool"
+    },
+    "last_login": {
+      "type_code": "date"
+    },
+    "last_name": {
+      "type_code": "string"
+    },
+    "password": {
+      "type_code": "string"
+    },
+    "username": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b32c48c97cf52cdd08"
+  },
+  "name": "auth_user_groups",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "group_id": {
+      "type_code": "int"
+    },
+    "id": {
+      "type_code": "int"
+    },
+    "user_id": {
+      "type_code": "int"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b32c48c97cf52cdd0d"
+  },
+  "name": "auth_user_user_permissions",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "id": {
+      "type_code": "int"
+    },
+    "permission_id": {
+      "type_code": "int"
+    },
+    "user_id": {
+      "type_code": "int"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b32c48c97cf52cdd20"
+  },
+  "name": "django_admin_log",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 18
+  },
+  "fields": {
+    "action_flag": {
+      "type_code": "int"
+    },
+    "action_time": {
+      "type_code": "date"
+    },
+    "change_message": {
+      "type_code": "string"
+    },
+    "content_type_id": {
+      "type_code": "int"
+    },
+    "id": {
+      "type_code": "int"
+    },
+    "object_id": {
+      "type_code": "string"
+    },
+    "object_repr": {
+      "type_code": "string"
+    },
+    "user_id": {
+      "type_code": "int"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "654e91b42c48c97cf52cdd53"
+  },
+  "name": "django_session",
+  "fields": {
+    "expire_date": {
+      "type_code": "date"
+    },
+    "session_data": {
+      "type_code": "string"
+    },
+    "session_key": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "654e92612c48c97cf52cdeb4"
+  },
+  "name": "recommend_myrating",
+  "fields": {
+    "movie_id": {
+      "type_code": "objectId"
+    },
+    "rating": {
+      "type_code": "int"
+    },
+    "user_id": {
+      "type_code": "int"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "654e92612c48c97cf52cdeb8"
+  },
+  "name": "recommend_mylist",
+  "fields": {
+    "movie_id": {
+      "type_code": "objectId"
+    },
+    "user_id": {
+      "type_code": "int"
+    },
+    "watch": {
+      "type_code": "bool"
+    }
+  }
+}]
